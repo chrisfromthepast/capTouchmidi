@@ -1,0 +1,5 @@
+esp32 wroom with a battery, to be used as a mobile transport controller for reaper. 
+essenaitlly it uses the onboard cap touch libraries and some midi ble libraries to generate midi cc messages when cap touch is sensed
+starting with pin 32
+
+micropython
